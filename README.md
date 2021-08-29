@@ -13,6 +13,16 @@ GameCraft游戏世界 2018-2020 游戏框架
 - BungeeManagement(BC功能管理) https://github.com/qsxzaqq/BungeeManagement
 - BungeeParty(BC组队) https://github.com/qsxzaqq/BungeeParty
 - BungeeQueue(游戏匹配) https://github.com/qsxzaqq/BungeeQueue
+- WatchNMSLReport(游戏举报) https://github.com/qsxzaqq/WatchNMSLReport
+
+游戏:
+- NewBedWars(超级起床) https://github.com/qsxzaqq/NewBedWars
+- BedWars(经典起床) https://github.com/qsxzaqq/BedWars
+- UHC(极限生存) https://github.com/qsxzaqq/UHC
+
+依赖:
+- GameUtils(所有工具类) https://github.com/qsxzaqq/GameUtils
+- PluginChannel(BC<->Bukkit间通讯) https://github.com/qsxzaqq/PluginChannel [源自于坏黑的开源修改。如有冒犯请联系我]
 
 ## 5555我先睡了 明天继续上传
 
