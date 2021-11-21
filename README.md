@@ -19,6 +19,7 @@ GameCraft游戏世界 2018-2020 游戏框架
 - NewBedWars(超级起床) https://github.com/qsxzaqq/NewBedWars
 - BedWars(经典起床) https://github.com/qsxzaqq/BedWars
 - UHC(极限生存) https://github.com/qsxzaqq/UHC
+- OneBedWars(凋零起床 1经验, bwr版商人) https://github.com/qsxzaqq/OneBedWars
 
 依赖:
 - GameUtils(所有工具类) https://github.com/qsxzaqq/GameUtils
